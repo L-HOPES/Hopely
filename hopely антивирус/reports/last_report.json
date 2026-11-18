@@ -1,0 +1,15 @@
+{
+  "file_name": "imager_2.0.0 (1).exe",
+  "file_path": "C:\\Users\\student\\Downloads\\imager_2.0.0 (1).exe",
+  "file_size_kb": 0.0,
+  "architecture": "unknown",
+  "is_pe": false,
+  "sha256": "",
+  "entropy_max": 0.0,
+  "score": 0,
+  "verdict": "ERROR",
+  "obfuscated": false,
+  "reasons": [],
+  "modules": {},
+  "error": "Не установлена библиотека pefile (pip install -r requirements.txt)"
+}
